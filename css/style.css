@@ -1,0 +1,55 @@
+/* start nagivation */
+.navbar-default
+{
+    background-color: rgba(255, 255, 255, 0.99);
+    border: none;
+    margin: 0 !important;
+    padding: 0;
+}
+.navbar-default .navbar-brand
+{
+    padding-top: 4px;
+    padding-bottom: 60px;
+    margin-left: 0px;
+}
+.navbar-default .navbar-brand img
+{
+ margin-top: 19px;
+}
+.mynavbar{
+    margin-right: 15px;
+}
+.navbar-default .navbar-nav li a
+{
+    display: inline-block;
+    color:rgba(101, 97, 129, 0.75);
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 35px;
+    font-family:sans-serif;
+}
+.navbar-default .navbar-nav li a:hover,.navbar-default .navbar-nav li a.active,.navbar-default .navbar-nav li a:focus
+{
+    color:#97da29;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+color: #97da29;
+background-color: transparent;
+}
+
+.navbar-default .navbar-toggle
+{
+    border: none;
+    padding-top: 16px; 
+}
+.navbar-default .navbar-toggle .icon-bar
+{
+    background: #97da29;
+    border-color: transparent;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus { background-color: transparent }
+/* end navigation */
