@@ -1,3 +1,9 @@
+/* import my font face */
+@font-face {
+    src: url('../fonts/Anders.ttf');
+    font-family: anders;
+}
+
 /* start nagivation */
 .navbar-default
 {
