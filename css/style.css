@@ -3,6 +3,22 @@
     src: url('../fonts/Anders.ttf');
     font-family: anders;
 }
+/* start body */
+.section-title {
+    width: 240px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.section-title h2{
+	text-align: center;
+    font-weight: 600;
+    color: rgba(101, 97, 129, 0.75);
+    font-family: anders, sans-serif;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+/* end body */
 
 /* start nagivation */
 .navbar-default
@@ -71,3 +87,40 @@ background-color: transparent;
   margin: 0;
 }
 /* end banner */
+
+/* start services */
+#services{
+    padding-top: 30px;
+}
+.service-block{
+    margin-bottom: 60px;
+}
+.my-row{
+    margin-right: -25px;
+    margin-left: -10px;
+}
+i.icon-services-blocks {
+    float: left;
+    color: #97da29;
+    font-size: 50px;
+    min-width: 50px;
+    height: 72px;
+}
+.services-info {
+    padding: 0 10px;
+    overflow: hidden;
+    font-family: sans-serif;    
+}
+.services-info h3 {
+    color: rgba(101, 97, 129, 0.75);
+    font-size: 18px;
+    margin: 0px;
+    font-weight: 600;
+}
+.services-info p {
+    text-align: left;
+    line-height: 1.6em;
+    font-size: 15px;
+    color: rgba(101, 97, 129, 0.75);
+}
+/* end services */
