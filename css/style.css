@@ -10,11 +10,11 @@
 {
     padding-top: 4px;
     padding-bottom: 60px;
-    margin-left: 0px;
+    margin-left: 0 !important;
 }
 .navbar-default .navbar-brand img
 {
- margin-top: 19px;
+    margin-top: 18px;
 }
 .mynavbar{
     margin-right: 15px;
@@ -53,3 +53,15 @@ background-color: transparent;
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus { background-color: transparent }
 /* end navigation */
+
+/* start banner */ 
+#home {
+    padding-top: 65px;
+}       
+.welcome-msg {
+  height: 530px;
+  padding: 0;
+  background-color: rgba(101, 97, 129, 0.75);
+  margin: 0;
+}
+/* end banner */
