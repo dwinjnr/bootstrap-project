@@ -290,3 +290,27 @@ i.icon-services-blocks {
 		margin-bottom:30px;
 	}
 /* end newsletter*/
+
+/* start about */
+.about-brief h4{
+	text-align: center;
+    font-weight: 600;
+    line-height: 1.1em;
+    color: white;
+    font-size: 23px;
+    font-family: anders, sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.about-brief p{
+    text-align: left;
+    margin-top:14px;
+    font-size:18px; 
+    line-height: 2em;
+    color: white;
+}
+.about-jumbotron{
+    background-color: rgba(101, 97, 129, 0.75);
+}
+/* end about */
