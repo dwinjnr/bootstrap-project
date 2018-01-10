@@ -7,6 +7,10 @@ input::-webkit-input-placeholder, .form-control::-webkit-input-placeholder, text
     color: #FFF;
     opacity: 1;
 }
+.form-control::-moz-placeholder, textarea::-moz-placeholder, input::-moz-placeholder{
+    color: #FFF;
+    opacity: 1;
+}
 /* start body */
 body{
     font-family: sans-serif;
@@ -314,3 +318,116 @@ i.icon-services-blocks {
     background-color: rgba(101, 97, 129, 0.75);
 }
 /* end about */
+
+/* start contact */
+#contact{
+    margin-top: 2%;
+    text-align: center;
+}
+.contact-row{
+    margin-top: -12px;
+    margin-bottom: 10px;
+}
+#contact-form h4 {
+    text-align: center;
+    font-weight: 600;
+    line-height: 1.5em;
+    color: rgba(101, 97, 129, 0.75);
+    font-size: 22px;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+#contact-form .input-n-e {
+    width: 100%;
+    color: white;
+    height: 50px;
+    font-family: sans-serif;
+    border-radius: 5px;
+    border: transparent;
+    background-color:rgba(101, 97, 129, 0.75);
+    padding: 15px;
+    margin-bottom: 20px;
+}
+ #contact-form input[type="submit"]{
+	background-color: #97da29;
+    border: 2px solid transparent;
+    color: rgba(101, 97, 129, 0.75);
+    height: 50px;
+    width: 100%;
+    border-radius: 5px;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-bottom: 40px;
+}
+#contact-form input[type="submit"]:hover{
+    background-color: #83b331;
+    border: none; 
+}
+#contact-form .input-m {
+    width: 100%;
+    margin-bottom: 15px;
+    color: white;
+    height: 100px;
+    font-family: sans-serif;
+    border-radius: 5px;
+    border: transparent;
+    background-color: rgba(101, 97, 129, 0.75);
+    padding: 15px;
+}   
+#contact-info h4{
+	text-align: center;
+    font-weight: 600;
+    line-height: 1.5em;
+    color: rgba(101, 97, 129, 0.75);
+    font-size: 22px;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    margin: 40px auto 10px auto;
+}
+#contact-info p{
+	text-align: center;
+    font-weight: 300;
+    line-height: 1.1em;
+    color: rgba(101, 97, 129, 0.75);
+    font-size: 17px;
+    font-family:sans-serif;
+    margin-bottom: 20px;
+}
+#contact-info #social-buttons {
+    width: 200px;
+    margin: auto;
+    padding-left: 40px;
+}
+#contact-info a, #contact-info p i{
+	font-size: 17px;
+	color: #97da29;
+	text-align: center;
+	letter-spacing: 10px;
+	text-decoration: none;
+}
+
+/* end contact */
+
+/* start footer */
+.footer{
+	height:100px;
+	background-color: rgba(101, 97, 129, 0.75);
+}
+.copyright{
+	text-align: center;
+    width: 200px;
+    height: 50px;
+    margin: 30px auto 0px auto;
+}
+#copyright-item {
+	font-family: sans-serif;
+    color: white;
+    font-size: 0.8em;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: 0.2em;
+	text-transform:uppercase;
+}
+/* end footer */
