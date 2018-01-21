@@ -229,7 +229,7 @@ i.icon-services-blocks {
         opacity: 0.9;
         transform: scale(1.1);
     }
-.img-container .portfolio-overlay .ti
+.img-container .portfolio-overlay .ti-link
     {
         color: #ffffff;
         font-size: 18px;
@@ -312,11 +312,14 @@ i.icon-services-blocks {
     text-align: left;
     margin-top:14px;
     font-size:17px; 
-    line-height: 2em;
+    line-height: 1.8em;
+    font-weight: 300;
     color: white;
 }
-.about-jumbotron{
+.about{
     background-color: rgb(101, 97, 129);
+    margin-top: 35px;
+    padding: 20px;
 }
 /* end about */
 
