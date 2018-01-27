@@ -7,6 +7,9 @@
 body{
     font-family: sans-serif;
 }
+.my-img {
+    border-radius: 5px 5px 5px 5px;
+}
 .section-title {
     width: 240px;
     margin: auto;
@@ -16,7 +19,7 @@ body{
 .section-title h2{
 	text-align: center;
     font-weight: 600;
-    color: rgb(101, 97, 129);
+    color: rgb(45, 42, 68);
     font-family: anders, sans-serif;
     text-transform: uppercase;
     font-size: 25px;
@@ -58,7 +61,7 @@ input::-webkit-input-placeholder, .form-control::-webkit-input-placeholder, text
 .navbar-default .navbar-nav li a
 {
     display: inline-block;
-    color:rgb(101, 97, 129);
+    color:rgb(45, 42, 68);
     font-size: 13px;
     font-weight: 700;
     line-height: 35px;
@@ -96,7 +99,7 @@ background-color: transparent;
 .welcome-msg {
   height: 530px;
   padding: 0;
-  background-color: rgb(101, 97, 129);
+  background-color: rgb(45, 42, 68);
   margin: 0;
 }
 /* end banner */
@@ -121,7 +124,7 @@ i.icon-services-blocks {
     overflow: hidden;
 }
 .services-info h3 {
-    color: rgb(101, 97, 129);
+    color: rgb(45, 42, 68);
     font-size: 17px;
     margin: 0px;
     font-weight: 600;
@@ -130,7 +133,7 @@ i.icon-services-blocks {
     text-align: left;
     line-height: 1.6em;
     font-size: 15px;
-    color: rgb(101, 97, 129);
+    color: rgb(45, 42, 68);
 }
 /* end services */
 
@@ -140,7 +143,7 @@ i.icon-services-blocks {
 }
 .min-banner{
     padding: 0;
-    background-color: rgb(101, 97, 129);
+    background-color: rgb(45, 42, 68);
     margin: 0;
 }
 .mb-content1, .mb-content2{
@@ -195,11 +198,8 @@ i.icon-services-blocks {
 	text-align: center;
     font-weight: 300;
     line-height: 1.5em;
-    color: rgb(101, 97, 129);
+    color: rgb(45, 42, 68);
     font-size: 17px;
-}
-.my-img {
-    border-radius: 5px 5px 0px 0px;
 }
 .img-container {
     margin-bottom: 30px;
@@ -241,7 +241,7 @@ i.icon-services-blocks {
 
 /* start newsletter */
 #subscribe {
-    background-color:rgb(101, 97, 129); 
+    background-color:rgb(45, 42, 68); 
     margin-top:20px;
 }
 .newsletter h4{
@@ -294,9 +294,6 @@ i.icon-services-blocks {
 /* end newsletter*/
 
 /* start about */
-#abtImg {
-    border-radius: 5px 5px 0px 0px;
-}
 .about-brief h4{
 	text-align: center;
     font-weight: 600;
@@ -317,7 +314,7 @@ i.icon-services-blocks {
     color: white;
 }
 .about{
-    background-color: rgb(101, 97, 129);
+    background-color: rgb(45, 42, 68);
     margin-top: 35px;
     padding: 20px;
 }
@@ -336,7 +333,7 @@ i.icon-services-blocks {
     text-align: center;
     font-weight: 600;
     line-height: 1.5em;
-    color: rgb(101, 97, 129);
+    color: rgb(45, 42, 68);
     font-size: 22px;
     font-family: sans-serif;
     text-transform: capitalize;
@@ -350,14 +347,14 @@ i.icon-services-blocks {
     font-family: sans-serif;
     border-radius: 5px;
     border: transparent;
-    background-color:rgb(101, 97, 129);
+    background-color:rgb(45, 42, 68);
     padding: 15px;
     margin-bottom: 20px;
 }
  #contact-form input[type="submit"]{
 	background-color: #97da29;
     border: 2px solid transparent;
-    color: rgb(101, 97, 129);
+    color: rgb(45, 42, 68);
     height: 50px;
     width: 100%;
     border-radius: 5px;
@@ -377,14 +374,14 @@ i.icon-services-blocks {
     font-family: sans-serif;
     border-radius: 5px;
     border: transparent;
-    background-color: rgb(101, 97, 129);
+    background-color: rgb(45, 42, 68);
     padding: 15px;
 }   
 #contact-info h4{
 	text-align: center;
     font-weight: 600;
     line-height: 1.5em;
-    color: rgb(101, 97, 129);
+    color: rgb(45, 42, 68);
     font-size: 22px;
     font-family: sans-serif;
     text-transform: capitalize;
@@ -394,7 +391,7 @@ i.icon-services-blocks {
 	text-align: center;
     font-weight: 300;
     line-height: 1.1em;
-    color: rgb(101, 97, 129);
+    color: rgb(45, 42, 68);
     font-size: 17px;
     font-family:sans-serif;
     margin-bottom: 20px;
@@ -417,7 +414,7 @@ i.icon-services-blocks {
 /* start footer */
 .footer{
 	height:100px;
-	background-color: rgb(101, 97, 129);
+	background-color: rgb(45, 42, 68);
 }
 .copyright{
 	text-align: center;
