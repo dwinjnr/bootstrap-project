@@ -23,7 +23,7 @@ body{
     color: rgb(45, 42, 68);
     font-family: anders, sans-serif;
     text-transform: uppercase;
-    font-size: 25px;
+    font-size: 23px;
 }
 input::-webkit-input-placeholder, .form-control::-webkit-input-placeholder, textarea::-webkit-input-placeholder{
     color: #FFF;
@@ -108,7 +108,7 @@ background-color: transparent;
     color: white;
 }
 #b-heading{
-    font-size: 38px;
+    font-size: 36px;
 }
 .banner-block p{
     font-size: 17px;
@@ -152,14 +152,14 @@ i.icon-services-blocks {
 }
 .services-info h3 {
     color: rgb(45, 42, 68);
-    font-size: 17px;
+    font-size: 15px;
     margin: 0px;
     font-weight: 600;
 }
 .services-info p {
     text-align: left;
     line-height: 1.6em;
-    font-size: 15px;
+    font-size: 14px;
     color: rgb(45, 42, 68);
 }
 /* end services */
@@ -173,7 +173,7 @@ i.icon-services-blocks {
     font-weight: 300;
     line-height: 1.5em;
     color: rgb(45, 42, 68);
-    font-size: 17px;
+    font-size: 15px;
 }
 .img-container {
     margin-bottom: 30px;
@@ -206,7 +206,7 @@ i.icon-services-blocks {
 .img-container .portfolio-overlay .ti-link
     {
         color: #ffffff;
-        font-size: 18px;
+        font-size: 16px;
         line-height: 40px;
         text-align: center;
         text-decoration: none;
@@ -223,7 +223,7 @@ i.icon-services-blocks {
     font-weight: 600;
     /* line-height: 1.1em; */
     color: #ffffff;
-    font-size: 22px;
+    font-size: 20px;
     font-family:sans-serif;
     text-transform: capitalize;
 }
@@ -232,7 +232,7 @@ i.icon-services-blocks {
     font-weight: 300;
     /* line-height: 1.5em; */
     color: #ffffff;
-    font-size: 17px;
+    font-size: 15px;
     font-family:sans-serif;
     text-transform: capitalize;
     margin-top: 20px;
@@ -273,7 +273,7 @@ i.icon-services-blocks {
     font-weight: 600;
     line-height: 1.1em;
     color: white;
-    font-size: 23px;
+    font-size: 21px;
     font-family: anders, sans-serif;
     text-transform: uppercase;
     margin-bottom: 10px;
@@ -282,7 +282,7 @@ i.icon-services-blocks {
 .about-brief p{
     text-align: left;
     margin-top:14px;
-    font-size:17px; 
+    font-size:15px; 
     /* line-height: 1.8em; */
     font-weight: 300;
     color: white;
@@ -307,7 +307,7 @@ i.icon-services-blocks {
     font-weight: 600;
     line-height: 1.2em;
     color: rgb(45, 42, 68);
-    font-size: 22px;
+    font-size: 20px;
     font-family: sans-serif;
     text-transform: capitalize;
     margin-top: 20px;
@@ -332,7 +332,7 @@ i.icon-services-blocks {
     width: 100%;
     border-radius: 5px;
     font-family: sans-serif;
-    font-size: 15px;
+    font-size: 13px;
     margin-bottom: 40px;
 }
 #contact-form input[type="submit"]:hover{
@@ -355,7 +355,7 @@ i.icon-services-blocks {
     font-weight: 600;
     line-height: 1.2em;
     color: rgb(45, 42, 68);
-    font-size: 22px;
+    font-size: 20px;
     font-family: sans-serif;
     text-transform: capitalize;
     margin: 20px auto 10px auto;
@@ -365,7 +365,7 @@ i.icon-services-blocks {
     font-weight: 300;
     /* line-height: 1.1em; */
     color: rgb(45, 42, 68);
-    font-size: 17px;
+    font-size: 15px;
     font-family:sans-serif;
     margin-bottom: 20px;
 }
@@ -375,7 +375,7 @@ i.icon-services-blocks {
     padding-left: 40px;
 }
 #contact-info a, #contact-info p i{
-	font-size: 17px;
+	font-size: 15px;
 	color: #97da29;
 	text-align: center;
 	letter-spacing: 10px;
