@@ -296,11 +296,10 @@ i.icon-services-blocks {
 
 /* start contact */
 #contact{
-    margin-top: 2%;
     text-align: center;
 }
 .contact-row{
-    margin-top: -12px;
+    margin-top: 30px;
     margin-bottom: 10px;
 }
 #contact-form h4 {
@@ -311,7 +310,7 @@ i.icon-services-blocks {
     font-size: 22px;
     font-family: sans-serif;
     text-transform: capitalize;
-    margin-top: 40px;
+    margin-top: 20px;
     margin-bottom: 40px;
 }
 #contact-form .input-n-e {
@@ -359,7 +358,7 @@ i.icon-services-blocks {
     font-size: 22px;
     font-family: sans-serif;
     text-transform: capitalize;
-    margin: 40px auto 10px auto;
+    margin: 20px auto 10px auto;
 }
 #contact-info p{
 	text-align: center;
@@ -389,7 +388,6 @@ i.icon-services-blocks {
 .footer{
 	height:100px;
     background-color: rgb(45, 42, 68);
-    margin-top: 65px;
 }
 .copyright{
 	text-align: center;
