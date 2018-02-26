@@ -6,6 +6,7 @@
 /* start body */
 body{
     font-family: sans-serif;
+    background-color: #fbf6f6;
 }
 .my-img {
     border-radius: 5px 5px 5px 5px;
@@ -33,14 +34,14 @@ input::-webkit-input-placeholder, .form-control::-webkit-input-placeholder, text
     opacity: 1;
 }
 #services, #portfolio, #about, #contact {
-    padding-top: 15px;
+    padding-top: 7px;
 }
 /* end body */
 
 /* start nagivation */
 .navbar-default
 {
-    background-color: rgba(255, 255, 255, 0.99);
+    background-color: #fbf6f6;
     border: none;
     margin: 0 !important;
     padding: 0;
@@ -132,7 +133,7 @@ background-color: transparent;
 
 /* start services */
 .service-block{
-    margin-bottom: 60px;
+    margin-bottom: 30px;
 }
 .my-row{
     margin-right: -25px;
@@ -220,7 +221,7 @@ i.icon-services-blocks {
 .newsletter h4{
 	text-align: center;
     font-weight: 600;
-    line-height: 1.1em;
+    /* line-height: 1.1em; */
     color: #ffffff;
     font-size: 22px;
     font-family:sans-serif;
@@ -229,7 +230,7 @@ i.icon-services-blocks {
 .newsletter p{
 	text-align: center;
     font-weight: 300;
-    line-height: 1.5em;
+    /* line-height: 1.5em; */
     color: #ffffff;
     font-size: 17px;
     font-family:sans-serif;
@@ -282,7 +283,7 @@ i.icon-services-blocks {
     text-align: left;
     margin-top:14px;
     font-size:17px; 
-    line-height: 1.8em;
+    /* line-height: 1.8em; */
     font-weight: 300;
     color: white;
 }
@@ -305,7 +306,7 @@ i.icon-services-blocks {
 #contact-form h4 {
     text-align: center;
     font-weight: 600;
-    line-height: 1.5em;
+    line-height: 1.2em;
     color: rgb(45, 42, 68);
     font-size: 22px;
     font-family: sans-serif;
@@ -353,7 +354,7 @@ i.icon-services-blocks {
 #contact-info h4{
 	text-align: center;
     font-weight: 600;
-    line-height: 1.5em;
+    line-height: 1.2em;
     color: rgb(45, 42, 68);
     font-size: 22px;
     font-family: sans-serif;
@@ -363,7 +364,7 @@ i.icon-services-blocks {
 #contact-info p{
 	text-align: center;
     font-weight: 300;
-    line-height: 1.1em;
+    /* line-height: 1.1em; */
     color: rgb(45, 42, 68);
     font-size: 17px;
     font-family:sans-serif;
@@ -387,7 +388,8 @@ i.icon-services-blocks {
 /* start footer */
 .footer{
 	height:100px;
-	background-color: rgb(45, 42, 68);
+    background-color: rgb(45, 42, 68);
+    margin-top: 65px;
 }
 .copyright{
 	text-align: center;
